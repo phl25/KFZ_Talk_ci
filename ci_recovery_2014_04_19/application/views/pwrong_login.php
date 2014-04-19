@@ -1,0 +1,1 @@
+Entweder ihr Passwort ist falsch oder das Kennzeichen ist noch nicht registriert.
