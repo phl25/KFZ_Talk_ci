@@ -1,1 +1,0 @@
-Sie haben Ihre Emailadresse noch nicht bestätigt oder sind noch nicht registriert.
